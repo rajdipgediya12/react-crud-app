@@ -1,0 +1,17 @@
+
+{
+  "pdfs": [
+    {
+      "id": 1,
+      "filename": "Book 1",
+      "filesize": "35 MB",
+      "url": "http://localhost:3000/pdfs/sample.pdf"
+    },
+    {
+      "id": 2,
+      "filename": "Book 3",
+      "filesize": "5 MB",
+      "url": "http://localhost:3000/pdfs/sample.pdf"
+    }
+  ]
+}

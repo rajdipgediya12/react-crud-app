@@ -1,0 +1,66 @@
+{
+  "name": "file-download-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.7.17",
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@mui/x-data-grid-pro": "^6.0.4",
+    "@mui/x-license-pro": "^5.17.12",
+    "@reduxjs/toolkit": "^1.9.6",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.12",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@types/react-window": "^1.8.6",
+    "@types/styled-components": "^5.1.26",
+    "firebase": "^8.3.1",
+    "graphql": "^16.7.1",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.6.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-hook-form": "^7.45.0",
+    "react-redux": "^8.1.3",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.3",
+    "react-uuid": "^2.0.0",
+    "react-virtualized-auto-sizer": "^1.0.20",
+    "react-window": "^1.8.9",
+    "redux": "^4.2.1",
+    "styled-components": "^5.3.9",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
