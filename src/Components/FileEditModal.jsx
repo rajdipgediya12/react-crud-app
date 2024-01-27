@@ -19,17 +19,6 @@ import "react-toastify/dist/ReactToastify.css";
 
 import { editRow } from "../slices/dataSlice";
 
-// import firebase from "firebase";
-
-// const firebaseConfig = {
-//   apiKey: "your api key",
-//   authDomain: "your credentials",
-//   projectId: "file-upload-964c7",
-//   storageBucket: "your credentials",
-//   messagingSenderId: "your credentials",
-//   appId: "your credentials",
-// };
-
 const FileEditModal = ({
   isModalOpen,
   setIsModalOpen,
